@@ -7,7 +7,7 @@
 
 # Dsh-bot
 
-English | [中文](README.zh.md)
+English | [中文](README.zh.md) | [日本語](README.ja.md)
 
 ![version](https://img.shields.io/badge/version-v0.1_preview-blue) ![DSH](https://img.shields.io/badge/DSH-0.2.1--alpha.1-4D6BFE) ![license](https://img.shields.io/badge/license-Apache_2.0-green)
 
