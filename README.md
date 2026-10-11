@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-# DeepSeek Bot
+# Dsh-bot
 
 English | [中文](README.zh.md)
 
